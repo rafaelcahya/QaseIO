@@ -1,0 +1,4 @@
+v2.id,description,preconditions,postconditions,behavior,v2.id,title,steps_actions,steps_result,steps_data
+1,"Verify that when a user logs in with the Internal CS role and already assigned to Agent WS, user can access several menu","1. The user has account and assigned to Agent WS
+2. The user is on the CMS Login page
+3. The user is already login CMS","The user should be able to access several menu","positive",1,"Internal CS Role",1. "See the menu on sidebar",1. "See the menu on sidebar",1. "Plate number data: B 133 ABS"
